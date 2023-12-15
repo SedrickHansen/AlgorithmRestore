@@ -1,4 +1,4 @@
-// Math.random = function () {
+//*Math.random = function () {
 //     let ret = 0.16601174644686956
 //     // console.log(ret)
 //     return ret;
@@ -284,3 +284,4 @@ process.argv = undefined;
 
 
 //下面这一段的补环境内容在群公告的text文件里，加我微信YotaGit拉你进群
+ 
